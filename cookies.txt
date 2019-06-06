@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+bitly.com	TRUE	/	FALSE	1999999999	_bit	j56bwQ-8d7b5bcd0d61d81989-00q
+bit.ly	TRUE	/	FALSE	1999999999	_bit	j56bwT-04cb7b1314336f2c8b-00c
+.discord.gg	TRUE	/	FALSE	1999999999	__cfduid	dd7145bd4eb91004ee9e3c5609f14e59b1559820776
+.instagram.com	TRUE	/	FALSE	1999999999	csrftoken	yRA6i0ROZ6uNzM2JUNkqogeUooNnR31P
+.instagram.com	TRUE	/	FALSE	1999999999	rur	PRN
+.instagram.com	TRUE	/	FALSE	1999999999	mid	XPj56gAEAAH79C4gVCJQ-KDM6Bq4
+.instagram.com	TRUE	/	FALSE	1999999999	urlgen	{\"24.133.192.61\": 47524}:1hYqdf:NZmCkZnmTZfK0GDCMI-Z4mM9TYE"
+.discordapp.com	TRUE	/	FALSE	1999999999	__cfduid	da7b5e6151d5b1b6b48f8bb2a66d1e7921559820781
+
